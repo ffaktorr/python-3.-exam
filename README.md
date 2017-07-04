@@ -1,0 +1,3 @@
+# python-3.-exam
+
+Final exam in python, a simple script using map,filer and lambda...
